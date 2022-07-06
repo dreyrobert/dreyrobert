@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently studing Computer Science at UFFS, and I'm looking to collaborate with front-end projects.<br>Learning more about HTML, CSS and JavaScript 
-
+I'm currently studying Computer Science at UFFS.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dreyrobert) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dreyrobert) 
